@@ -1,1 +1,2 @@
-# fire
+vless://326302d2-5954-11eb-b0ae-560003275003@bigsur.tk:443?encryption=none&security=tls&type=tcp&headerType=none#%e8%a5%bf%e9%9b%85%e5%9b%be2+_2021%2f3%2f17++%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
+vless://b4d9d9ae-5ee3-11eb-a738-5600032a56a5@ccpisdevil.ml:443?encryption=none&security=tls&type=tcp&headerType=none#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e8%a5%bf%e9%9b%85%e5%9b%beB_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
