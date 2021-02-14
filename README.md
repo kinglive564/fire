@@ -11,57 +11,7 @@ vless://32007d8a-6929-11eb-ba7f-56000330276a@gmegme.cf:443?encryption=none&secur
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue/u+WimeS8ml/pn6nlm703X+iHqui0uSAg55S15oql6aKR6YGT77yaaHR0cHM6Ly90Lm1lL2NuaHVtYW5yaWdodDk5IiwNCiAgImFkZCI6ICJiaWdzdXIuY2YiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzU1NGYzOTYtNjkzMi0xMWViLWFjNTctNTYwMDAzMzAyZmNhIiwNCiAgImFpZCI6ICIxMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmlnc3VyLmNmIiwNCiAgInBhdGgiOiAiL1MwRWFjZ2RDLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-
-
-trojan://03f78fb8-2473-4636-89b3-98333846e2cb@tacotasty.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%b4%9b%e6%9d%89%e7%9f%b6_WX%e6%8d%90%e6%ac%be%e8%b4%ad%e4%b9%b0_2021%2f3%2f26%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://dbdb25ab-b789-42b2-8782-8ec9a2f7cb68@chinahumanr.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac6_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://af920201-1b42-47f1-9397-1773a484fbe5@milkgogo.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac3_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue/u+WimeS8ml/ml6XmnKwxMV/oh6rotLnvvIznlLXmiqXpopHpgZPvvJpodHRwczovL3QubWUvY25odW1hbnJpZ2h0OTkiLA0KICAiYWRkIjogImNoaW5haHIuY2YiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDBjZjYwZmEtNmQ5OC0xMWViLTgwOGItNTYwMDAzMzJjMjc1IiwNCiAgImFpZCI6ICIxMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2hpbmFoci5jZiIsDQogICJwYXRoIjogIi9xeVdSWUVONS8iLA0KICAidGxzIjogInRscyINCn0=
-
-
-
-trojan://d1268dc9-2aa7-4204-9062-1d9e23f050be@fuckxijinping.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_seoul_2_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://01263fd3-fd5e-4c14-8789-a4c3fc9126ad@xibun.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_seoul_1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://425bee0e-4a55-4be7-9d13-40c905269965@gmegme.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://c0e2c7e9-d7a3-4e42-9610-749917277d7e@fuckxijinping.cf:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_seoul_3_%e8%87%aa%e8%b4%b9++%e8%8a%82%e7%82%b9%e6%9b%b4%e6%96%b0%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://602a9d99-d87a-4b91-8a8e-b50ebb2689ca@trotro.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e9%9f%a9%e5%9b%bd3_%e8%87%aa%e8%b4%b9+%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9a%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://7f3d9f50-dc2c-4c11-b9bc-52a679984a90@xibun.gq:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e8%a5%bf%e9%9b%85%e5%9b%beC_+%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://c710d37f-8445-4761-b63c-edaceb42d0aa@gmegme.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac5_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
-trojan://112365b5-739b-4082-88ad-42ab3aa6303e@fuckxiaofenhong.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_tokyo_1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99
-
-
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue/u+WimeS8ml/pn6nlm705X+iHqui0uSDnlLXmiqXpopHpgZPvvJpodHRwczovL3QubWUvY25odW1hbnJpZ2h0OTkiLA0KICAiYWRkIjogImdtZWdtZS5nYSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNWFlMjk4Ni02ZGEyLTExZWItOWY3ZS01NjAwMDMzMmM2MmMiLA0KICAiYWlkIjogIjEyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnbWVnbWUuZ2EiLA0KICAicGF0aCI6ICIvcXlLUWViT1gvIiwNCiAgInRscyI6ICJ0bHMiDQp9
 　
 
@@ -104,14 +54,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavdjE0LeS7mOi0ueaO
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavdjE1LeS7mOi0ueaOqOiNkDpkbGoudGYvc3Nyc3ViIiwNCiAgImFkZCI6ICJ2Mi0xNS5zc3JzdWIub25lIiwNCiAgInBvcnQiOiAiNTA1NjMiLA0KICAiaWQiOiAiYTllYmVjY2YtZGE1OS04OTc3LWI1ZDktMWFkMjY3ZmQ3NDE1IiwNCiAgImFpZCI6ICIzMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavdjE2LeS7mOi0ueaOqOiNkDpkbGoudGYvc3Nyc3ViIiwNCiAgImFkZCI6ICJ2Mi0xNi5zc3JzdWIub25lIiwNCiAgInBvcnQiOiAiNTA1NjMiLA0KICAiaWQiOiAiYTllYmVjY2YtZGE1OS04OTc3LWI1ZDktMWFkMjY3ZmQ3NDE1IiwNCiAgImFpZCI6ICIzMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavdjE3LeS7mOi0ueaOqOiNkDpkbGoudGYvc3Nyc3ViIiwNCiAgImFkZCI6ICJ2Mi0xNy5zc3JzdWIub25lIiwNCiAgInBvcnQiOiAiNTA1NjMiLA0KICAiaWQiOiAiYTllYmVjY2YtZGE1OS04OTc3LWI1ZDktMWFkMjY3ZmQ3NDE1IiwNCiAgImFpZCI6ICIzMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-　
-
-al:
-
-北京时间2021年2月8日9点35分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！
-
-美国节点：
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IFVTXzM2NDIiLA0KICAiYWRkIjogImRkLjE5OTMwMS54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZmRiODZjYmMtYzUzNy00YTkyLTk3MTctMGQ0YmEyNmFiOWVhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkZC4xOTkzMDEueHl6IiwNCiAgInBhdGgiOiAiL2RkZTdmYTQvIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IFVTXzM2NDAiLA0KICAiYWRkIjogIjEwNC4yMS41My4yMjgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiM2I1ZTI1OGUtOGM1ZS00NWQzLWI3ZDItMDJjOGY1ZmMwYmIyIiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAieGV5LndyeGp5cy50ZWNoIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
@@ -241,11 +183,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IENOXzU3NiIs
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IC0g5rmW5Y2X55yB6IGU6YCaNTAuMzAiLA0KICAiYWRkIjogImR0LmNuMWNzLmRuc2FpcnBvcnQudGsiLA0KICAicG9ydCI6ICIyOTAwMyIsDQogICJpZCI6ICI3NjJmNTBmNy0yMjY0LTM1MTAtOWZiYS02ZDNlMzlhYzYyM2UiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjMuMzQuMTgxLjEyIiwNCiAgInBhdGgiOiAiL3R6IiwNCiAgInRscyI6ICIiDQp9
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IC0g5rmW5Y2X55yB6IGU6YCaNTAuMjgiLA0KICAiYWRkIjogImR0LmNuMWNzLmRuc2FpcnBvcnQudGsiLA0KICAicG9ydCI6ICIyOTAwNCIsDQogICJpZCI6ICI3NjJmNTBmNy0yMjY0LTM1MTAtOWZiYS02ZDNlMzlhYzYyM2UiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjU0Ljk1LjI4LjgiLA0KICAicGF0aCI6ICIvdHoiLA0KICAidGxzIjogIiINCn0=
-
-
-
-
-欧洲节点：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IE5MXzIxODgiLA0KICAiYWRkIjogIjE2My4xNzIuMjEwLjEyMiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjkzMGFiOTM0LWMwMGUtNDAzYS04MThjLTE3MTgwNDk2NmEyMiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaW50ZXJuYWxkcnVwYWxjYWNoZS5kaWdpLmNvbS5teSIsDQogICJwYXRoIjogIi9WdEZvandEeTl4IiwNCiAgInRscyI6ICIiDQp9
 
